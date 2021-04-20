@@ -19,34 +19,30 @@ sidebar:
     telegram: Nike884
 
     languages:
-      - idiom: English
+      - idiom: Italian
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
+      - item: Graphics & Animations
+        link: https://www.youtube.com/channel/UCDXayP_SUijDALoDQWKFD4g
 
-      - item: Snowboarding
-        link:
+      - item: Network Troubleshooting
 
-      - item: Cooking
-        link:
+      - item: Programming
+        link: https://dev.azure.com/nicolalorettu/
 
 career-profile:
-    title: Career Profile
+    title: 
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Professionista serio e motivato con vasta esperienza in diversi ambiti tra i quali
+      l’assistenza tecnica, la formazione, il supporto, la gestione dei clienti,
+      la programmazione, l'analisi.
+      Dotato di un'eccellente capacità di relazionarsi agli altri.
+      Cerco una nuova posizione per ampliare la mia crescita personale.
+
 education:
     - degree: MSc in Computer Science
       university: University of London
