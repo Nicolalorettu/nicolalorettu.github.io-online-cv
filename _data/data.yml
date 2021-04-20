@@ -44,8 +44,8 @@ career-profile:
       Cerco una nuova posizione per ampliare la mia crescita personale.
 
 education:
-    - Qualifica: Perito Industriale Capotecnico specializzazione Informatica
-      Scuola: I.T.I.S. Dionigi Scano - Monserrato
+    - degree: Perito Industriale Capotecnico specializzazione Informatica
+      meta: I.T.I.S. Dionigi Scano - Monserrato
       time: 1998 - 2003
 
 
