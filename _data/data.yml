@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: nicola.lorettu@gmail.com
     phone: 3470523535
-    linkedin: https://www.linkedin.com/in/nicola-lorettu-95817562/
+    linkedin: www.linkedin.com/in/nicola-lorettu
     github: Nicolalorettu
     telegram: Nike884
 
@@ -35,7 +35,7 @@ sidebar:
         link: https://dev.azure.com/nicolalorettu/
 
 career-profile:
-    title: 
+    title: Presentazione
     summary: |
       Professionista serio e motivato con vasta esperienza in diversi ambiti tra i quali
       l’assistenza tecnica, la formazione, il supporto, la gestione dei clienti,
@@ -43,29 +43,13 @@ career-profile:
       Dotato di un'eccellente capacità di relazionarsi agli altri.
       Cerco una nuova posizione per ampliare la mia crescita personale.
 
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+Istruzione:
+    - Qualifica: Perito Industriale Capotecnico specializzazione Informatica
+      Scuola: I.T.I.S. Dionigi Scano - Monserrato
+      time: 2003
+
+Capacità:
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
