@@ -19,20 +19,22 @@ sidebar:
     telegram: Nike884
 
     languages:
-      - idiom: Italian
-        level: Native
+      - idiom: Italiano
+        level: Lingua Madre
 
-      - idiom: English
-        level: Professional
+      - idiom: Inglese
+        level: B1
 
     interests:
-      - item: Graphics & Animations
-        link: https://www.youtube.com/channel/UCDXayP_SUijDALoDQWKFD4g
-
-      - item: Network Troubleshooting
-
       - item: Programming
         link: https://dev.azure.com/nicolalorettu/
+
+      - item: Grafica e Animazione
+        link: https://www.youtube.com/channel/UCDXayP_SUijDALoDQWKFD4g
+
+      - item: Networkaholic
+
+
 
 career-profile:
     title: Presentazione
@@ -51,51 +53,57 @@ education:
 abilities:
     title: capacità
     summary: |
-      • Ottime competenze Tecniche e di Troubleshooting Hardware/Software.
-      • Ottima resistenza allo stress, dinamico, disponibile, ambizioso, preciso
-      • Capacità di Leadership ottenute con esperienza sul campo e corsi di formazione
-      • Ottime capacità di relazione con i colleghi e con i responsabili al fine di poter arrivare ad un obiettivo prefissato
+      - Ottime competenze Tecniche e di Troubleshooting Hardware/Software.
+      - Ottima resistenza allo stress, dinamico, disponibile, ambizioso, preciso
+      - Capacità di Leadership ottenute con esperienza sul campo e corsi di formazione
+      - Ottime capacità di relazione con i colleghi e con i responsabili al fine di poter arrivare ad un obiettivo prefissato
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Programmatore, Assistenza Tecnica, Analista Dati
+      time: Luglio 2018 - Presente
+      company: Ennova Services S.p.A
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Gestione server CentOS e sviluppo di una webapp per l'analisi dell'andamento degli operatori con particolare attenzione alla visualizzazione di tabelle e grafici da poter integrare in report operativi.
+        - Sviluppo di applicativi in VBA integrando excel macro per controllo emissione fatture e verifica pratiche.
+        - Esecuzione di analisi di tipo quantitativo e qualitativo per risolvere problematiche di carattere organizzativo. Ciò ha permesso di poter capire dove poter operare per ottimizzare il lavoro degli operatori.
+        - Tecnico Informatico di 2° Livello per la commessa Tim.
+
+    - role: Team Leader, Formatore, Gestione Tecnici OnField
+      time: Maggio 2015 - Luglio 2018
+      company: Ennova Services S.p.A
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Coordinatore degli operatori nella commessa Vodafone.
+        - Formazione tecnica, procedurale e di comunicazione in Italia e all'Estero degli operatori nuovi assunti dall'azienda per la commessa Vodafone.
+        - Gestione delle relazioni con il cliente Vodafone per la condivisione degli obiettivi e per il miglioramento del servizio.
+        - Gestione e analisi del gruppo di lavoro dei Tecnici OnField (commessa Tim e Vodafone)
+        - Cura delle relazioni con azienda del gestionale pratiche.
+
+    - role: Tecnico Informatico
+      time: Marzo 2014 - Maggio 2015
+      company: Ennova Services S.p.A
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Tecnico Informatico di 2° Livello per la commessa Tim.
+
+    - role: Tecnico Informatico
+      time: Luglio 2011 - Maggio 2013
+      company: Bizmatica S.r.l
+      details: |
+        - Tecnico Informatico di 2° Livello per la commessa Tim.
+
+    - role: HP Customer Self Repair - HP Dispatcher
+      time: Giugno 2007 - Marzo 2010
+      company: Stream Italy S.r.l
+      details: |
+        - Addetto al contatto cliente per il ritiro delle parti guaste o DOA
+        - Addetto al contatto dei tecnici e dei magazzini per l'organizzazione di interventi di riparazione programmata Same Business Day, Next Business Day
+
+    - role: Tecnico Informatico
+      time: Giugno 2006 - Nov 2006
+      company: Manpower s.r.l
+      details: |
+        - Tecnico Informatico di 2° Livello per la commessa Tiscali.
 projects:
-    title: Projects
+    title: Progetti
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
