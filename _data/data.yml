@@ -133,7 +133,7 @@ publications:
 
 
 skills:
-    title: Linguaggi di Programmazione
+    title: Linguaggi di Programmazione &amp; Networking
 
     toolset:
       - name: C Sharp
@@ -157,18 +157,14 @@ skills:
       - name: After Effects, Premiere, Photoshop, Illustrator
         level: 90%
 
-#skills:
-#    title: Networking
+      - name: CentOS
+        level: 90%
 
-#    toolset:
-#      - name: CentOS
-#        level: 90%
+      - name: Apache
+        level: 70%
 
-#      - name: Apache
-#        level: 70%
-
-#      - name: Cisco OS
-#        level: 30%
+      - name: Cisco OS
+        level: 30%
 
 
 footer: >
