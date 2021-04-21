@@ -136,7 +136,7 @@ skills:
     title: Linguaggi di Programmazione
 
     toolset:
-      - name: C'#'
+      - name: C Sharp
         level: 90%
 
       - name: Python & Django
@@ -156,7 +156,7 @@ skills:
 
       - name: After Effects, Premiere, Photoshop, Illustrator
         level: 90%
-        
+
 skills:
     title: Networking
 
