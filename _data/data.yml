@@ -48,6 +48,13 @@ education:
       meta: I.T.I.S. Dionigi Scano - Monserrato
       time: 1998 - 2003
 
+abilities:
+    title: capacità
+    summary: |
+      • Ottime competenze Tecniche e di Troubleshooting Hardware/Software.
+      • Ottima resistenza allo stress, dinamico, disponibile, ambizioso, preciso
+      • Capacità di Leadership ottenute con esperienza sul campo e corsi di formazione
+      • Ottime capacità di relazione con i colleghi e con i responsabili al fine di poter arrivare ad un obiettivo prefissato
 
 experiences:
     - role: Lead Developer
