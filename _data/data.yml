@@ -105,21 +105,18 @@ experiences:
 projects:
     title: Progetti
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: CRUD Basic Users Management
+        link: "https://dev.azure.com/nicolalorettu/CRUD%20Basic%20Users%20Management"
+        tagline: "Sviluppo di un sistema Crud su un mio server domestico CentOS, Db Apache con capacità di inserimento dati anche offline (Db Json) e update"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: SurveyApp
+        link: "https://dev.azure.com/nicolalorettu/_git/QuizApp?path=%2FSurveyApp"
+        tagline: "Piccola App di sondaggi eseguita in C#"
 
-      - title: Tempo
+      - title: Python CED
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Sviluppo di un CED scritto in Python 3.6 su server aziendale CentOS, Db Apache, Framework Django e automi di recupero RAW data per l'aggiornamento dati giornaliero."
 
       - title: Atom
         link: "#"
@@ -130,26 +127,11 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Certificazioni
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Conseguito corso di C# di Alessandro Bemporad sulla piattaforma Udemy con Certificato di partecipazione.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
