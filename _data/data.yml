@@ -118,7 +118,7 @@ projects:
         tagline: "Piccola App di sondaggi eseguita in C#"
 
       - title: Python CED
-        link: "https://github.com/Nicolalorettu/CED-Python-2019"
+        link: "https://github.com/Nicolalorettu/CED_Python_2019"
         tagline: "Sviluppo di un CED scritto in Python 3.6 su server aziendale CentOS, Db Apache, Framework Django e automi di recupero RAW data per l'aggiornamento dati giornaliero."
 
       - title: Yt Channel "The Dottora"
