@@ -157,18 +157,18 @@ skills:
       - name: After Effects, Premiere, Photoshop, Illustrator
         level: 90%
 
-skills:
-    title: Networking
+#skills:
+#    title: Networking
 
-    toolset:
-      - name: CentOS
-        level: 90%
+#    toolset:
+#      - name: CentOS
+#        level: 90%
 
-      - name: Apache
-        level: 70%
+#      - name: Apache
+#        level: 70%
 
-      - name: Cisco OS
-        level: 30%
+#      - name: Cisco OS
+#        level: 30%
 
 
 footer: >
