@@ -26,8 +26,11 @@ sidebar:
         level: B1
 
     interests:
-      - item: Programmazione
+      - item: Programmazione C#
         link: https://dev.azure.com/nicolalorettu/
+
+      - item: Programmazione Ruby - Jekyll, Python - Django
+        link: https://github.com/Nicolalorettu/online-cv
 
       - item: Grafica e Animazione
         link: https://www.youtube.com/channel/UCDXayP_SUijDALoDQWKFD4g
@@ -153,7 +156,8 @@ skills:
 
       - name: After Effects, Premiere, Photoshop, Illustrator
         level: 90%
-
+        
+skills:
     title: Networking
 
     toolset:
