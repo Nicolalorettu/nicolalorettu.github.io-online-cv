@@ -97,18 +97,19 @@ experiences:
       details: |
         - Tecnico Informatico di 2° Livello per la commessa Tim.
 
+    - role: Tecnico Informatico
+      time: Giugno 2006 - Nov 2006
+      company: Manpower s.r.l
+      details: |
+        - Tecnico Informatico di 2° Livello per la commessa Tiscali.
+
     - role: HP Customer Self Repair - HP Dispatcher
       time: Giugno 2007 - Marzo 2010
       company: Stream Italy S.r.l
       details: |
         - Addetto al contatto cliente per il ritiro delle parti guaste o DOA
         - Addetto al contatto dei tecnici e dei magazzini per l'organizzazione di interventi di riparazione programmata Same Business Day, Next Business Day
-
-    - role: Tecnico Informatico
-      time: Giugno 2006 - Nov 2006
-      company: Manpower s.r.l
-      details: |
-        - Tecnico Informatico di 2° Livello per la commessa Tiscali.
+        
 projects:
     title: Progetti
     intro: >
