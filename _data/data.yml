@@ -97,7 +97,7 @@ projects:
         tagline: "Sviluppo di un sistema Crud su un mio server domestico CentOS, Db Apache con capacità di inserimento dati anche offline (Db Json) e update"
 
       - title: SurveyApp
-        link: "https://dev.azure.com/nicolalorettu/_git/QuizApp?path=%2FSurveyApp"
+        link: "https://github.com/Nicolalorettu/QuizApp"
         tagline: "Piccola App di sondaggi eseguita in C#"
 
       - title: Python CED
