@@ -62,7 +62,7 @@ abilities:
 
 experiences:
     - role: Programmatore, Analista Dati
-      time: Luglio 2018 - Gennaio 2019
+      time: 2018 - 2019
       company: Ennova Services S.p.A
       details: |
         - Gestione server CentOS e sviluppo di una webapp per l'analisi dell'andamento degli operatori con particolare attenzione alla visualizzazione di tabelle e grafici da poter integrare in report operativi.
@@ -70,7 +70,7 @@ experiences:
         - Esecuzione di analisi di tipo quantitativo e qualitativo per risolvere problematiche di carattere organizzativo. Ciò ha permesso di poter capire dove poter operare per ottimizzare il lavoro degli operatori.
 
     - role: Team Leader, Formatore, Gestione Tecnici OnField
-      time: Maggio 2015 - Luglio 2018
+      time: 2015 - 2018
       company: Ennova Services S.p.A
       details: |
         - Coordinatore degli operatori nella commessa Vodafone.
@@ -80,36 +80,18 @@ experiences:
         - Cura delle relazioni con azienda del gestionale pratiche.
 
     - role: Tecnico Informatico
-      time: Gennaio 2019 - Presente
-      company: Ennova Services S.p.A
+      time: 2006 - 2021
+      company: Manpower s.r.l / Bizmatica S.r.l / Ennova Services S.p.A
       details: |
-        - Tecnico Informatico di 2° Livello per la commessa Tim.
-
-    - role: Tecnico Informatico
-      time: Marzo 2014 - Maggio 2015
-      company: Ennova Services S.p.A
-      details: |
-        - Tecnico Informatico di 2° Livello per la commessa Tim.
-
-    - role: Tecnico Informatico
-      time: Luglio 2011 - Maggio 2013
-      company: Bizmatica S.r.l
-      details: |
-        - Tecnico Informatico di 2° Livello per la commessa Tim.
-
-    - role: Tecnico Informatico
-      time: Giugno 2006 - Nov 2006
-      company: Manpower s.r.l
-      details: |
-        - Tecnico Informatico di 2° Livello per la commessa Tiscali.
+        - Assistenza tecnica clienti per installazioni e configurazioni per ISP
 
     - role: HP Customer Self Repair - HP Dispatcher
-      time: Giugno 2007 - Marzo 2010
+      time: 2007 - 2010
       company: Stream Italy S.r.l
       details: |
         - Addetto al contatto cliente per il ritiro delle parti guaste o DOA
         - Addetto al contatto dei tecnici e dei magazzini per l'organizzazione di interventi di riparazione programmata Same Business Day, Next Business Day
-        
+
 projects:
     title: Progetti
     intro: >
@@ -126,9 +108,13 @@ projects:
         link: "https://github.com/Nicolalorettu/CED_Python_2019"
         tagline: "Sviluppo di un CED scritto in Python 3.6 su server aziendale CentOS, Db Apache, Framework Django e automi di recupero RAW data per l'aggiornamento dati giornaliero."
 
-      - title: Yt Channel "The Dottora"
+      - title: Graphic & Animation Artist
         link: "https://www.youtube.com/channel/UCDXayP_SUijDALoDQWKFD4g"
-        tagline: "Creazione Animazioni e Grafica per il canale"
+        tagline: "Creazione Animazioni e Grafica per il canale The Dottora"
+
+      - title: Game Artist
+        link: "https://veonazzo.itch.io/metal-wind"
+        tagline: "Ho partecipato alla game Jam 2 di Godot Engine Italia con il gioco “Metal Wind” curando la grafica in pixelart"
 
 publications:
     title: Certificazioni
