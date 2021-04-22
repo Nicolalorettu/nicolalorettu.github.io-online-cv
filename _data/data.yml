@@ -80,18 +80,13 @@ experiences:
         - Gestione e analisi del gruppo di lavoro dei Tecnici OnField (commessa Tim e Vodafone)
         - Cura delle relazioni con azienda del gestionale pratiche.
 
-    - role: Tecnico Informatico
+    - role: HP CSR Dispatcher - Tecnico Informatico
       time: 2006 - 2015
-      company: Manpower s.r.l / Bizmatica S.r.l / Ennova Services S.p.A
-      details: |
-        - Assistenza tecnica clienti per installazioni e configurazioni per ISP
-
-    - role: HP Customer Self Repair - HP Dispatcher
-      time: 2007 - 2010
-      company: Stream Italy S.r.l
+      company: Stream Italy S.r.l / Bizmatica S.r.l / Ennova Services S.p.A
       details: |
         - Addetto al contatto cliente per il ritiro delle parti guaste o DOA
         - Addetto al contatto dei tecnici e dei magazzini per l'organizzazione di interventi di riparazione programmata Same Business Day, Next Business Day
+        - Assistenza tecnica clienti per installazioni e configurazioni per ISP
 
 projects:
     title: Progetti
