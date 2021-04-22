@@ -61,14 +61,13 @@ abilities:
       - Ottime capacità di relazione con i colleghi e con i responsabili al fine di poter arrivare ad un obiettivo prefissato
 
 experiences:
-    - role: Programmatore, Assistenza Tecnica, Analista Dati
-      time: Luglio 2018 - Presente
+    - role: Programmatore, Analista Dati
+      time: Luglio 2018 - Gennaio 2019
       company: Ennova Services S.p.A
       details: |
         - Gestione server CentOS e sviluppo di una webapp per l'analisi dell'andamento degli operatori con particolare attenzione alla visualizzazione di tabelle e grafici da poter integrare in report operativi.
         - Sviluppo di applicativi in VBA integrando excel macro per controllo emissione fatture e verifica pratiche.
         - Esecuzione di analisi di tipo quantitativo e qualitativo per risolvere problematiche di carattere organizzativo. Ciò ha permesso di poter capire dove poter operare per ottimizzare il lavoro degli operatori.
-        - Tecnico Informatico di 2° Livello per la commessa Tim.
 
     - role: Team Leader, Formatore, Gestione Tecnici OnField
       time: Maggio 2015 - Luglio 2018
@@ -79,6 +78,12 @@ experiences:
         - Gestione delle relazioni con il cliente Vodafone per la condivisione degli obiettivi e per il miglioramento del servizio.
         - Gestione e analisi del gruppo di lavoro dei Tecnici OnField (commessa Tim e Vodafone)
         - Cura delle relazioni con azienda del gestionale pratiche.
+
+    - role: Tecnico Informatico
+      time: Gennaio 2019 - Presente
+      company: Ennova Services S.p.A
+      details: |
+        - Tecnico Informatico di 2° Livello per la commessa Tim.
 
     - role: Tecnico Informatico
       time: Marzo 2014 - Maggio 2015
