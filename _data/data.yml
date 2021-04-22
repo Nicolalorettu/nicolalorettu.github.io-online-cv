@@ -61,13 +61,14 @@ abilities:
       - Ottime capacità di relazione con i colleghi e con i responsabili al fine di poter arrivare ad un obiettivo prefissato
 
 experiences:
-    - role: Programmatore, Analista Dati
-      time: 2018 - 2019
+    - role: Programmatore, Analista Dati, Tecnico Informatico
+      time: 2018 - 2021
       company: Ennova Services S.p.A
       details: |
         - Gestione server CentOS e sviluppo di una webapp per l'analisi dell'andamento degli operatori con particolare attenzione alla visualizzazione di tabelle e grafici da poter integrare in report operativi.
         - Sviluppo di applicativi in VBA integrando excel macro per controllo emissione fatture e verifica pratiche.
         - Esecuzione di analisi di tipo quantitativo e qualitativo per risolvere problematiche di carattere organizzativo. Ciò ha permesso di poter capire dove poter operare per ottimizzare il lavoro degli operatori.
+        - Assistenza tecnica clienti per installazioni e configurazioni per ISP
 
     - role: Team Leader, Formatore, Gestione Tecnici OnField
       time: 2015 - 2018
@@ -80,7 +81,7 @@ experiences:
         - Cura delle relazioni con azienda del gestionale pratiche.
 
     - role: Tecnico Informatico
-      time: 2006 - 2021
+      time: 2006 - 2015
       company: Manpower s.r.l / Bizmatica S.r.l / Ennova Services S.p.A
       details: |
         - Assistenza tecnica clienti per installazioni e configurazioni per ISP
