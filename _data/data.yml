@@ -156,9 +156,6 @@ skills:
 
       - name: Apache
         level: 70%
-
-      - name: Cisco OS
-        level: 30%
         
       - name: Dart
         level: 60%
