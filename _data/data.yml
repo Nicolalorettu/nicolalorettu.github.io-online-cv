@@ -33,7 +33,7 @@ sidebar:
       - item: Programmazione C#
         link: https://dev.azure.com/nicolalorettu/
 
-      - item: Programmazione Ruby - Jekyll, Python - Django
+      - item: Programmazione Ruby - Jekyll - Python - Django - Dart
         link: https://github.com/Nicolalorettu/
 
 
@@ -112,6 +112,13 @@ projects:
         link: "https://github.com/Nicolalorettu/CED_Python_2019"
         tagline: "Sviluppo di un CED scritto in Python 3.6 su server aziendale CentOS, Db Apache, Framework Django e automi di recupero RAW data per l'aggiornamento dati giornaliero."
 
+      - title: Body Fat Calculator App
+        link: "https://github.com/Nicolalorettu/thedottora_bfc"
+        tagline: "Sviluppo di un App per il calcolo della massa grassa. Tramite l'inserimento di diversi dati fisici, calcola l'indice di massa grassa utilizzando diverse equazioni ed è possibile scaricare in pdf il risultato da fornire al paziente" 
+      
+      - title: Diet Calculator
+        link: "https://github.com/Nicolalorettu/Diet-Calculator"
+        tagline: "Sviluppo di un programma per il conteggio delle calorie. Il programma permette di creare e aggiornare un database locale, utilizzandolo per ricercare i cibi necessari per formulare il calcolo delle kcal, proteine etc. Richiede l'installazione di sql server 2019 for developers" 
 publications:
     title: Certificazioni
     intro: |
