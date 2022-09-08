@@ -104,10 +104,6 @@ projects:
         link: "https://dev.azure.com/nicolalorettu/CRUD%20Basic%20Users%20Management"
         tagline: "Sviluppo di un sistema Crud su un mio server domestico CentOS, Db Apache con capacità di inserimento dati anche offline (Db Json) e update"
 
-      - title: SurveyApp
-        link: "https://github.com/Nicolalorettu/QuizApp"
-        tagline: "Piccola App di sondaggi eseguita in C#"
-
       - title: Python CED
         link: "https://github.com/Nicolalorettu/CED_Python_2019"
         tagline: "Sviluppo di un CED scritto in Python 3.6 su server aziendale CentOS, Db Apache, Framework Django e automi di recupero RAW data per l'aggiornamento dati giornaliero."
