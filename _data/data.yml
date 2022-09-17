@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Nicola Lorettu
-    tagline: Programmatore, Grafico
+    tagline: Tecnico Informatico, Customer service, Programmatore, Grafico autodidatta
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -108,9 +108,9 @@ projects:
         link: "https://github.com/Nicolalorettu/CED_Python_2019"
         tagline: "Sviluppo di un CED scritto in Python 3.6 su server aziendale CentOS, Db Apache, Framework Django e automi di recupero RAW data per l'aggiornamento dati giornaliero."
 
-      - title: Body Fat Calculator App
+      - title: Nutritool App
         link: "https://github.com/Nicolalorettu/thedottora_bfc"
-        tagline: "Sviluppo di un App per il calcolo della massa grassa. Tramite l'inserimento di diversi dati fisici, calcola l'indice di massa grassa utilizzando diverse equazioni ed è possibile scaricare in pdf il risultato da fornire al paziente" 
+        tagline: "Sviluppo di un App per il calcolo della massa grassa e metabolismo basale. Tramite l'inserimento di diversi dati fisici, calcola l'indice di massa grassa e il metabolismo basale utilizzando diverse equazioni." 
       
       - title: Diet Calculator
         link: "https://github.com/Nicolalorettu/Diet-Calculator"
