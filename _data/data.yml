@@ -132,6 +132,9 @@ skills:
       - name: Python, Django, Numpy, Scikitlearn, Pandas, Jupiter
         level: 90%
 
+      - name: Sql
+        level: 70%
+        
       - name: Javascript & jQuery
         level: 10%
 
