@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Nicola Lorettu
-    tagline: Tecnico Informatico, Customer service, Programmatore, Grafico autodidatta
+    tagline: Tecnico Informatico, Programmatore, Customer service, Grafico autodidatta
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -129,8 +129,8 @@ skills:
       - name: C Sharp
         level: 90%
 
-      - name: Python & Django
-        level: 80%
+      - name: Python, Django, Numpy, Scikitlearn, Pandas, Jupiter
+        level: 90%
 
       - name: Javascript & jQuery
         level: 10%
