@@ -8,7 +8,8 @@ sidebar:
 
     # Profile information
     name: Nicola Lorettu
-    tagline: Tecnico Informatico, Programmatore, Customer service, Grafico autodidatta
+    tagline: Social Media Manager, Tecnico Informatico, Customer Service, Programmatore, Grafico
+
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -22,14 +23,12 @@ sidebar:
         level: Lingua Madre
 
       - idiom: Inglese
-        level: B1
+        level: B2
 
     interests:
-      - item: Grafica e Animazione
+      - item: Social Media Marketing, Grafica e Animazione
         link: https://www.youtube.com/channel/UCDXayP_SUijDALoDQWKFD4g
-
-      - item: Networkaholic
-      
+    
       - item: Programmazione C#
         link: https://dev.azure.com/nicolalorettu/
 
@@ -41,10 +40,10 @@ sidebar:
 career-profile:
     title: Presentazione
     summary: |
-      Professionista serio e motivato con vasta esperienza in diversi ambiti tra i quali
-      l’assistenza tecnica, la formazione, il supporto, la gestione dei clienti,
-      la programmazione, l'analisi.
-      Dotato di un'eccellente capacità di relazionarsi agli altri.
+      Professionista serio e motivato con vasta esperienza in diversi ambiti tra i quali 
+      l'analisi dati, la gestione dei social, lo studio dei brand e della comunicazione, 
+      la formazione, la gestione dei clienti, la programmazione, il supporto tecnico. 
+      Dotato di un'eccellente capacità di relazionarsi agli altri. 
       Cerco una nuova posizione per ampliare la mia crescita personale.
 
 education:
@@ -55,10 +54,12 @@ education:
 abilities:
     title: capacità
     summary: |
-      - Ottime competenze Tecniche e di Troubleshooting Hardware/Software.
-      - Ottima resistenza allo stress, dinamico, disponibile, ambizioso, preciso
-      - Capacità di Leadership ottenute con esperienza sul campo e corsi di formazione
-      - Ottime capacità di relazione con i colleghi e con i responsabili al fine di poter arrivare ad un obiettivo prefissato
+      -	Competenze Tecniche e di Troubleshooting Hardware/Software.
+      - Competenze Social di analisi, gestione e di sviluppo strategie al fine di aumentare la brand awarness
+	  - Resistenza allo stress, dinamico, disponibile, ambizioso, preciso
+	  - Capacità di Leadership ottenute con esperienza sul campo e corsi di formazione
+	  - Capacità di relazione con i colleghi e con i responsabili al fine di poter arrivare ad un obiettivo prefissato
+
 
 experiences:
     - role: Programmatore, Analista Dati, Tecnico Informatico
@@ -92,18 +93,14 @@ projects:
     title: Progetti
     intro: >
     assignments:
-      - title: Graphic & Animation Artist
+      - title: Social media manager, Graphic & Animation Artist
         link: "https://www.youtube.com/channel/UCDXayP_SUijDALoDQWKFD4g"
-        tagline: "Creazione Animazioni e Grafica per il canale The Dottora"
+        tagline: "Curatore dei social e creatore delle  animazioni e della grafica per i canali social di The Dottora"
 
       - title: Game Artist
         link: "https://veonazzo.itch.io/metal-wind"
         tagline: "Ho partecipato alla game Jam 2 di Godot Engine Italia con il gioco “Metal Wind” curando la grafica in pixelart"
         
-      - title: CRUD Basic Users Management
-        link: "https://dev.azure.com/nicolalorettu/CRUD%20Basic%20Users%20Management"
-        tagline: "Sviluppo di un sistema Crud su un mio server domestico CentOS, Db Apache con capacità di inserimento dati anche offline (Db Json) e update"
-
       - title: Python CED
         link: "https://github.com/Nicolalorettu/CED_Python_2019"
         tagline: "Sviluppo di un CED scritto in Python 3.6 su server aziendale CentOS, Db Apache, Framework Django e automi di recupero RAW data per l'aggiornamento dati giornaliero."
@@ -116,10 +113,11 @@ projects:
         link: "https://github.com/Nicolalorettu/Diet-Calculator"
         tagline: "Sviluppo di un programma per il conteggio delle calorie. Il programma permette di creare e aggiornare un database locale, utilizzandolo per ricercare i cibi necessari per formulare il calcolo delle kcal, proteine etc. Richiede l'installazione di sql server 2019 for developers" 
 publications:
-    title: Certificazioni
+    title: Attestati
     intro: |
     papers:
-      - title: Conseguito corso di C# di Alessandro Bemporad sulla piattaforma Udemy con Certificato di partecipazione.
+      - title: Conseguito corso di Data Engineering sulla piattaforma Dot Accademy di 240 ore, con Attestato di Partecipazione 
+      - title: Conseguito corso di Social Media Marketing sulla piattaforma TalentForm di 248 ore, con Attestato di Partecipazione 
 
 
 skills:
