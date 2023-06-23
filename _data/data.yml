@@ -40,11 +40,13 @@ sidebar:
 career-profile:
     title: Presentazione
     summary: |
-      Professionista serio e motivato con vasta esperienza in diversi ambiti tra i quali 
-      l'analisi dati, la gestione dei social, lo studio dei brand e della comunicazione, 
-      la formazione, la gestione dei clienti, la programmazione, il supporto tecnico. 
-      Dotato di un'eccellente capacità di relazionarsi agli altri. 
+      Innovativo, creativo e attento ai dettagli. 
+      Sono un professionista motivato con vasta esperienza in diversi ambiti tra i quali l'analisi dati, 
+      la gestione dei social, lo studio dei brand e della comunicazione, la formazione, 
+      la gestione dei clienti, la programmazione, il supporto tecnico. 
+      Sono dotato di un'eccellente capacità di relazionarsi agli altri. 
       Cerco una nuova posizione per ampliare la mia crescita personale.
+
 
 education:
     - degree: Perito Industriale Capotecnico specializzazione Informatica
@@ -56,9 +58,9 @@ abilities:
     summary: |
       -	Competenze Tecniche e di Troubleshooting Hardware/Software.
       - Competenze Social di analisi, gestione e di sviluppo strategie al fine di aumentare la brand awarness
-	  - Resistenza allo stress, dinamico, disponibile, ambizioso, preciso
-	  - Capacità di Leadership ottenute con esperienza sul campo e corsi di formazione
-	  - Capacità di relazione con i colleghi e con i responsabili al fine di poter arrivare ad un obiettivo prefissato
+      - Resistenza allo stress, dinamico, disponibile, ambizioso, preciso
+      - Capacità di Leadership ottenute con esperienza sul campo e corsi di formazione
+      - Capacità di relazione con i colleghi e con i responsabili al fine di poter arrivare ad un obiettivo prefissato
 
 
 experiences:
@@ -80,14 +82,6 @@ experiences:
         - Gestione delle relazioni con il cliente Vodafone per la condivisione degli obiettivi e per il miglioramento del servizio.
         - Gestione e analisi del gruppo di lavoro dei Tecnici OnField (commessa Tim e Vodafone)
         - Cura delle relazioni con azienda del gestionale pratiche.
-
-    - role: HP CSR Dispatcher - Tecnico Informatico
-      time: 2006 - 2015
-      company: Stream Italy S.r.l / Bizmatica S.r.l / Ennova Services S.p.A
-      details: |
-        - Addetto al contatto cliente per il ritiro delle parti guaste o DOA
-        - Addetto al contatto dei tecnici e dei magazzini per l'organizzazione di interventi di riparazione programmata Same Business Day, Next Business Day
-        - Assistenza tecnica clienti per installazioni e configurazioni per ISP
 
 projects:
     title: Progetti
